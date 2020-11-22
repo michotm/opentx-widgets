@@ -1,0 +1,5 @@
+{
+    "pythonTestExplorer.testFramework": "pytest",
+    "python.pythonPath": "/home/mike/Documents/src/venv/pytest/venv/bin/python",
+    "python.testing.pytestEnabled": true
+}
